@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lav-vs2019-PullRequest", "Lav-vs2019-PullRequest.csproj", "{E495A5BB-BA95-4CD6-9150-F6D0340AFC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E495A5BB-BA95-4CD6-9150-F6D0340AFC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E495A5BB-BA95-4CD6-9150-F6D0340AFC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E495A5BB-BA95-4CD6-9150-F6D0340AFC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E495A5BB-BA95-4CD6-9150-F6D0340AFC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E940E6-AC70-41FB-978A-7CECFD5E9522}
+	EndGlobalSection
+EndGlobal
